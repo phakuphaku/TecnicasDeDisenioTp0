@@ -1,4 +1,4 @@
-package ar.fiuba.tecnicas.rockpaperscissors;
+package test.java.ar.fiuba.tecnicas.rockpaperscissors;
 
 import main.java.ar.fiuba.tecnicas.rockpaperscissors.Paper;
 import main.java.ar.fiuba.tecnicas.rockpaperscissors.Rock;
